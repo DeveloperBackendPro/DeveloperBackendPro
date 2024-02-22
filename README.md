@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:dilshodikromov1995@gmail.com" target="blank"><img align="center" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/aa58b7be-63de-435d-8202-17f12fbcbc7e" alt="DeveloperBackendPro" height="28" width="30" /></a>
-<a href="https://t.me/DeveloperBackendPro" target="blank"><img align="center" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/a4c9210a-ebf4-455b-b97e-a91fda550e4e" alt="DeveloperBackendPro" height="28" width="30" /></a>
+<a href="https://t.me/DeveloperBackendPro"><img align="center" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/a4c9210a-ebf4-455b-b97e-a91fda550e4e" alt="DeveloperBackendPro" height="28" width="30" /></a>
 <a href="tel:+998933861995" target="blank"><img align="center" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/9f1a2d69-42c9-400f-9887-17398875553d" alt="DeveloperBackendPro" height="28" width="30" /></a>
 </p>
 
