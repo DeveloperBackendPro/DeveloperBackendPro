@@ -42,5 +42,5 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/adc7597c-7be6-4d45-a343-c2088157e561" alt="ubuntu.com" width="40" height="40"/> </a> 
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/MyPersonalBot/assets/77174755/37cc8449-7678-4174-a97c-3f51d0f7a0a2" alt="nginx.org" width="40" height="40"/> </a> 
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/MyPersonalBot/assets/77174755/26ffcefc-3adb-4bdd-aa3b-0569a96844ae" alt="debian.org" width="40" height="40"/> </a> 
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/MyPersonalBot/assets/77174755/2e26a11c-aa36-4354-98d8-421949d19ae6" alt="debian.org" width="40" height="40"/> </a> 
 </p>
