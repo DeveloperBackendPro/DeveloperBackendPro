@@ -41,4 +41,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/adc7597c-7be6-4d45-a343-c2088157e561" alt="ubuntu.com" width="40" height="40"/> </a> 
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/DeveloperBackendPro/MyPersonalBot/assets/77174755/37cc8449-7678-4174-a97c-3f51d0f7a0a2" alt="nginx.org" width="40" height="40"/> </a> 
 </p>
