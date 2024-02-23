@@ -3,7 +3,7 @@
     <img src="https://github.com/DeveloperBackendPro/Test/assets/77174755/6463506c-6886-4caf-b0d1-f7b2f55b9c05" />
 </h1>
 <h3 align="center">I'm a passionate Backend developer based in Uzbekistan. I love creating interactive and user-friendly web experiences.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/117994b5-0a5b-4aa6-9d26-24610306ab1b">
+<img align="right" alt="Coding" width="400" src="https://github.com/DeveloperBackendPro/Test/assets/77174755/49750264-ab3d-4630-a4ad-b5f89634dade">
 
 
 
