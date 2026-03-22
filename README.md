@@ -22,7 +22,7 @@
    <img src="https://github.com/user-attachments/assets/612c665e-070d-46a3-be56-2c3b2d5775e3" alt="axum" width="40" height="40"/>
    <img src="https://github.com/user-attachments/assets/f697573d-31b9-4961-9313-b92caa49a7a2" alt="touri" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+   <img src="https://www.vectorlogo.zone/logos/git-tower/git-tower-icon.svg" alt="tower" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
    <img src="https://github.com/DeveloperBackendPro/Django-Quiz/assets/77174755/adc7597c-7be6-4d45-a343-c2088157e561" alt="ubuntu.com" width="40" height="40"/>
